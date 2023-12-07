@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810407843213",
+    "project_id": "mkticeatr",
+    "storage_bucket": "mkticeatr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810407843213:android:7234f86aeb55100b0d59c4",
+        "android_client_info": {
+          "package_name": "com.example.wk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKspAEu2MVo-exmd8Ca5hhNRF85Mr97Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
